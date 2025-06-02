@@ -74,7 +74,7 @@ const orderDetails = [
       { id: 2, name: "Product B", quantity: 1, price: 49.99 }
     ],
     total: 109.97,
-    status: "delivered",
+    status: "processing",
     orderDate: "2024-03-14T15:30:00Z"
   },
   {
@@ -84,7 +84,7 @@ const orderDetails = [
       { id: 3, name: "Product C", quantity: 1, price: 79.99 }
     ],
     total: 79.99,
-    status: "processing",
+    status: "delivered",
     orderDate: "2024-03-15T10:15:00Z"
   },
   {
